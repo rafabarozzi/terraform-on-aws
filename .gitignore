@@ -1,0 +1,18 @@
+# Arquivos de estado do Terraform
+*.tfstate
+*.tfstate.*
+.terraform.*
+
+# Arquivos de backup do editor de texto
+*~
+
+# Arquivos de planos de execução do Terraform
+*.tfplan
+
+# Arquivos de log do Terraform
+terraform.log
+
+# Diretórios específicos do Terraform que podem ser ignorados
+.terraform/
+
+03-EKS-with-Ansible-AWX/*
