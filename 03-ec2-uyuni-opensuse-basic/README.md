@@ -1,4 +1,4 @@
-# Provisioning EC2 Instance and Install AWX
+# Provisioning EC2 Instance and Install Uyuni
 
 ## Prerequisites
 
