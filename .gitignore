@@ -15,6 +15,3 @@ terraform.log
 # Terraform-specific directories that can be ignored
 .terraform/
 
-# Ongoing Projects
-
-03-EKS-with-Ansible-AWX/
